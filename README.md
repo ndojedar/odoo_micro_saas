@@ -100,4 +100,6 @@ Thank you for your support!
 <!-- Imagen 3 -->
 <img src="https://raw.githubusercontent.com/davidmonterocrespo24/odoo_micro_saas/15.0/micro_saas/static/description/3.jpg" alt="Imagen 3" width="800"/>
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX3BMYjNWdWVRSDA4ampkWDd4YTlNVHVHSjk4MVFYdDQ1N3EwYQ==#davidmonterocrespo24/odoo_micro_saas&Timeline" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=davidmonterocrespo24/odoo_micro_saas&type=Timeline)](https://star-history.com/#davidmonterocrespo24/odoo_micro_saas&Timeline)
